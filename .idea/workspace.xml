@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeb6a89a-1490-4191-b4a1-0756ed7f0d90" name="Changes" comment="jjjjjj">
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/controller/EmpresaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/controller/EmpresaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/controller/MensalidadeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/controller/MensalidadeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/repository/EmpresaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/repository/EmpresaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/repository/MensalidadeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/repository/MensalidadeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/service/EmpresaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/service/EmpresaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/service/MensalidadeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestaobiovitta/src/main/java/com/biovitta/gestaocnpj/service/MensalidadeService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gestaobiovitta/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CauaMarques-Byte"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CauaMarques-Byte/gestao-biovitta.git",
+    "accountId": "9750c604-a044-4314-936f-316ea2b9e72d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Crh1O8chyE8ik7OuFUc4Q7PbyM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GestaobiovittaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nanma/Downloads/gestaobiovitta&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.biovitta.gestaocnpj.domain.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nanma\Downloads\gestaobiovitta\gestaobiovitta\src\main\java" />
+      <recent name="C:\Users\nanma\Downloads\gestaobiovitta\gestaobiovitta\src\main\java\com\biovitta\gestaocnpj\domain" />
+      <recent name="C:\Users\nanma\Downloads\gestaobiovitta\gestaobiovitta\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GestaobiovittaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="gestaobiovitta" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.biovitta.gestaocnpj.GestaobiovittaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeb6a89a-1490-4191-b4a1-0756ed7f0d90" name="Changes" comment="" />
+      <created>1777149380788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777149380788</updated>
+      <workItem from="1777149382163" duration="1642000" />
+      <workItem from="1777318304417" duration="15000" />
+      <workItem from="1777841881021" duration="2926000" />
+      <workItem from="1777852114242" duration="8193000" />
+      <workItem from="1778022613845" duration="71000" />
+      <workItem from="1778106555729" duration="10030000" />
+      <workItem from="1778335991320" duration="6921000" />
+      <workItem from="1778465255966" duration="15987000" />
+      <workItem from="1779045223930" duration="8678000" />
+      <workItem from="1779764882450" duration="4896000" />
+      <workItem from="1779804495116" duration="1779000" />
+      <workItem from="1780007972382" duration="35000" />
+      <workItem from="1780861972651" duration="4165000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1779065087249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779065087249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jjjjjj">
+      <option name="closed" value="true" />
+      <created>1779769559606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779769559606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jjjjjj">
+      <option name="closed" value="true" />
+      <created>1779769649935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779769649935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="jjjjjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjjjjj" />
+  </component>
+</project>
